@@ -1,0 +1,15 @@
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\bin\Debug\net6.0\Задача_01.exe
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\bin\Debug\net6.0\Задача_01.deps.json
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\bin\Debug\net6.0\Задача_01.runtimeconfig.json
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\bin\Debug\net6.0\Задача_01.dll
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\bin\Debug\net6.0\Задача_01.pdb
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\Задача_01.csproj.AssemblyReference.cache
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\Задача_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\Задача_01.AssemblyInfoInputs.cache
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\Задача_01.AssemblyInfo.cs
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\Задача_01.csproj.CoreCompileInputs.cache
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\Задача_01.dll
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\refint\Задача_01.dll
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\Задача_01.pdb
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\Задача_01.genruntimeconfig.cache
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_01\obj\Debug\net6.0\ref\Задача_01.dll

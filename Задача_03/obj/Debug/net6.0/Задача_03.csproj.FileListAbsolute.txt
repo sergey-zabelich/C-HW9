@@ -1,0 +1,15 @@
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\bin\Debug\net6.0\Задача_03.exe
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\bin\Debug\net6.0\Задача_03.deps.json
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\bin\Debug\net6.0\Задача_03.runtimeconfig.json
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\bin\Debug\net6.0\Задача_03.dll
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\bin\Debug\net6.0\Задача_03.pdb
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\Задача_03.csproj.AssemblyReference.cache
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\Задача_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\Задача_03.AssemblyInfoInputs.cache
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\Задача_03.AssemblyInfo.cs
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\Задача_03.csproj.CoreCompileInputs.cache
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\Задача_03.dll
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\refint\Задача_03.dll
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\Задача_03.pdb
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\Задача_03.genruntimeconfig.cache
+C:\Users\zabel\OneDrive\Рабочий стол\C#HW9\Задача_03\obj\Debug\net6.0\ref\Задача_03.dll
